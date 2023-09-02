@@ -1,0 +1,64 @@
+{    
+    "personas": [
+        {
+            "nombre": "Carlos",
+            "apellido":"Aurelio",
+            "correo": "caurelio@trading.com",
+            "localidad":"Puerto Madryn"
+        },
+        {
+            "nombre":"Esteban",
+            "apellido":"Rojas",
+            "correo":"erojas@trading.com",
+            "localidad":"Puerto Madryn"
+        },
+        {
+            "nombre":"Diego",
+            "apellido":"Bidinost",
+            "correo":"dbidinost@trading.com",
+            "localidad":"Buenos Aires"
+        },
+        {
+            "nombre":"Aleberto",
+            "apellido":"Ramos",
+            "correo":"aramos@trading.com",
+            "localidad":"Comodoro Rivdadavia"
+        },
+        {
+            "nombre":"Anabel",
+            "apellido":"Stephan",
+            "correo":"astephan@trading.com",
+            "localidad":"Usuahia"
+        },
+        {
+            "nombre":"Diana",
+            "apellido":"Ramirez",
+            "correo":"dramirez@trading.com",
+            "localidad":"Usuahia"
+        },
+        {
+            "nombre":"Maria Ana",
+            "apellido":"Nicossia",
+            "correo":"manicossia@trading.com",
+            "localidad":"Puerto Madryn"
+        },
+        {
+            "nombre":"Roberto",
+            "apellido":"De Stephano",
+            "correo":"rdstephano@trading.com",
+            "localidad":"Buenos Aires"
+        },
+        {
+            "nombre":"Jorge Antonio",
+            "apellido":"Di Marcos",
+            "correo":"jadmarcos@trading.com",
+            "localidad":"Comodoro Rivdadavia"
+        },
+        {
+            "nombre":"Estefano",
+            "apellido":"Diaz",
+            "correo":"ediaz@trading.com",
+            "localidad":"Buenos Aires"
+        }
+    ]
+}
